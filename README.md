@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**sagar-data261/sagar-data261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sagar 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science student  
+📊 Aspiring Data Analyst | Python & SQL  
+🚀 Learning by building real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python (NumPy, Pandas, Matplotlib)
+- SQL (Joins, Group By, Subqueries)
+- Excel & Power BI (Basics)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+
+---
+
+## 📌 Projects
+- 📈 **BMI Analysis Dataset Generator**
+- 📊 Sales Data EDA (SQL + Python)
+- 🧮 Simple Python Utilities
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Statistics for Data Analysis
+- Data Visualization Best Practices
+
+---
+
+## 📫 Connect with me
+- LinkedIn: [(add later)](https://www.linkedin.com/in/sagar-samanta-09596632b/)
+
